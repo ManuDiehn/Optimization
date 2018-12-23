@@ -1,6 +1,6 @@
 biscuits = ['cookie', 'cupcake', 'brownie']
 goods = ['flour', 'sugar', 'chocolate', 'oil', 'eggs']
-# quantity
+# quantities
 w = [[.1, .15, .1, .05, 0],  # cookie
      [.3, .2, .05, .1, 2],  # cupcake
      [.05, .3, .3, .1, 3]]  # brownie
